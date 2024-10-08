@@ -1,0 +1,4 @@
+1. Open CLIPS IDE or CLI
+2. run the command (load <path to .clp file)
+3. then run (reset)
+4. then run (run)
